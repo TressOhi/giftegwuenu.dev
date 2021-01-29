@@ -2,10 +2,17 @@
   "upcoming": [
     {
       "id": "1",
-      "title": "Jamstack FTW: Static Site Generation With Gridsome",
-      "date": "September, 17 - 18 2020",
-      "event": "Vuejs Global",
-      "link": "https://www.vuejs.amsterdam/"
+      "title": "Going Beyond Static Sites (Panel)",
+      "date": "January, 28 2021",
+      "event": "The Jam.dev Conference",
+      "link": "https://cfe.dev/sessions/going-beyond-static-sites/"
+    },
+    {
+      "id": "2",
+      "title": "Tech Snacks: JSWorld Edition",
+      "date": "Febuary, 22 - 27 2021",
+      "event": "JSWorld Conference",
+      "link": "https://frontenddeveloperlove.com/program#d-1-s-9"
     }
   ],
   "past":  [
@@ -64,6 +71,27 @@
       "date": "September, 3 2020",
       "event": "Headless Commerce Summit",
       "link": "https://www.youtube.com/watch?v=seNgpGrwNBY&t=54s"
+    },
+    {
+      "id": "9",
+      "title": "Jamstack FTW: Static Site Generation With Gridsome",
+      "date": "September, 17 - 18 2020",
+      "event": "Vuejs Global",
+      "link": "https://www.vuejs.amsterdam/"
+    },
+    {
+      "id": "10",
+      "title": "Building from Scratch with Nuxt.js",
+      "date": "October, 7 2020",
+      "event": "Jamstack Conf Virtual",
+      "link": "https://jamstackconf.com/virtual/"
+    },
+    {
+      "id": "11",
+      "title": "Jamstack FTW: Static Site Generation with Gridsome",
+      "date": "November, 23 2020",
+      "event": "3 Hours of Jamstack Conference",
+      "link": "https://nimbella.com/webinars/3-hours-of-jamstack-conference/"
     }
   ],
   "interviews": [
